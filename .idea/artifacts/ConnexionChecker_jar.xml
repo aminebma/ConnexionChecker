@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ConnexionChecker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConnexionChecker_jar</output-path>
+    <root id="archive" name="ConnexionChecker.jar">
+      <element id="module-output" name="ConnexionChecker" />
+    </root>
+  </artifact>
+</component>
